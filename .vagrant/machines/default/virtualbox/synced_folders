@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/mcclainconcepts":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/mcclainconcepts","hostpath":"/Applications/MAMP/htdocs/mcclainconcepts","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Applications/MAMP/htdocs/mcclainconcepts","disabled":false,"__vagrantfile":true}}}
